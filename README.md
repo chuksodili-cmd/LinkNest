@@ -1,6 +1,6 @@
 # LinkNest 🌐
 
-**LinkNest** is a full-stack link-in-bio application that allows users to create a personal public page and organize all their important social media links in one place.
+LinkNest is a full-stack link-in-bio application that allows users to create a personal public page and organize all their important social media links in one place.
 
 ## ✨ Features
 
@@ -12,6 +12,12 @@
 - Public profile pages with unique usernames
 - Responsive user dashboard
 - PostgreSQL database integration
+
+## 📸 Screenshots
+
+### Login Page
+
+![LinkNest Login Page](screenshots/login.png)
 
 ## 🛠️ Technologies Used
 
@@ -45,6 +51,8 @@ LinkNest/
 │   ├── public/
 │   └── src/
 │       └── app/
+├── screenshots/
+│   └── login.png
 └── README.md
 ```
 
@@ -137,4 +145,3 @@ The goal of LinkNest is to provide a simple way for creators, professionals, and
 ## 👨‍💻 Author
 
 Created as a full-stack web development project.
-
